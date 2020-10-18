@@ -189,3 +189,8 @@ body {
     margin-top: 10px;
     color: #f05f40;
 }
+
+.text-small {
+    font-size: 13px;
+    margin-top: 4px;
+}
